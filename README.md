@@ -17,7 +17,7 @@ MSc Precision Medicine graduate with interests in bioinformatics, computational 
 
 ## Featured work
 - Colorectal cancer RNA-seq analysis
-- Microbiome 16S analysis
+- Microbiome 16S rRNA analysis
 - MSc thesis report
 - Machine learning, regression, and meta-analysis coursework
 
